@@ -137,7 +137,7 @@ I hold **eJPT** and **CompTIA Security+** certifications and maintain a **Top 1%
 | eJPT (Junior Penetration Tester) | eLearnSecurity | 03/2029 |
 | CompTIA Security+ (SY0-701) | CompTIA | 01/2029 |
 | Jr Penetration Tester | TryHackMe | 02/2026 |
-| CPTS Path — Completed (16 modules) | HTB Academy | — |
+| CPTS Path — Completed | HTB Academy | — |
 
 ---
 
