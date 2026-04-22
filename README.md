@@ -7,7 +7,7 @@
 [![TryHackMe](https://img.shields.io/badge/TryHackMe-Top%201%25%20%7C%20Legend-red?style=for-the-badge&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/MohammedAlArjan)
 [![Security+](https://img.shields.io/badge/CompTIA-Security%2B-red?style=for-the-badge&logo=comptia&logoColor=white)](https://www.comptia.org/)
 [![eJPT](https://img.shields.io/badge/eLearnSecurity-eJPT-blue?style=for-the-badge)](https://elearnsecurity.com/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mohammedalArjan)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mohammed-arjan-4041b8312/)
 
 </div>
 
